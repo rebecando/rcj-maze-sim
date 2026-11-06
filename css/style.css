@@ -1,6 +1,6 @@
-/* Layout: test bench — fixed parameter panel on the left, scene and diagnostics on the right */
+
 :root{
-  /* Lilás sobre roxo escuro (base no blurple #5865F2); tema único, escuro */
+
   --bg:#1f1b4d; --panel:#29246a; --panel2:#312b7c; --ink:#e6dbff; --muted:#b8a7ee; --line:#433c99;
   --accent:#c3a6ff; --accent-soft:#3b3392; --ok:#6ee7a8; --ok-soft:#1f4a4a; --warn:#ffcb72; --warn-soft:#4a3a46;
   --bad:#ff8a9a; --bad-soft:#4f2a5a; --terrain:#a8916a; --terrain-edge:#d9c39b; --bump:#ecd8ae;
